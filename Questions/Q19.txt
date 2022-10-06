@@ -1,0 +1,6 @@
+first generation of comp was based on which tech
+A)transistor
+B)LSI
+C)VLSI
+D)vaccum tube
+D

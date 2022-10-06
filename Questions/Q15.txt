@@ -1,0 +1,6 @@
+Fathometer is used to measure
+A)Rainfall
+B)Ocean depth
+C)Sound intensity
+D)Earthquakes
+B
